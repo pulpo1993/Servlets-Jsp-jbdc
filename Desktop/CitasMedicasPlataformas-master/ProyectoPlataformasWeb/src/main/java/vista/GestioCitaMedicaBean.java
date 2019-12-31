@@ -89,7 +89,7 @@ public class GestioCitaMedicaBean {
 
 	public void setDireccion(String direccion) {
 		this.direccion = direccion;
-	}
+	} 
 
 
 	public String getTelefono() {
